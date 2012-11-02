@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">MemoNote</string>
+    <string name="title_note_detail">Note Detail</string>
+    <string name="title_note_list">Notes</string>
+
+</resources>
