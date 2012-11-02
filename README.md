@@ -1,0 +1,4 @@
+MemoNote
+========
+
+Android project
